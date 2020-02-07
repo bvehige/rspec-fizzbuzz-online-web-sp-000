@@ -3,7 +3,8 @@
 
 def fizzbuzz(number)
   if number % 15 == 0 
-    return "Fizzbuzz"
-  
+    return "FizzBuzz"
+  el
+
   end
 end
